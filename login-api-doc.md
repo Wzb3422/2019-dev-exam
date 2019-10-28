@@ -25,7 +25,7 @@ Request body:
 
 如果密码正确，会返回一个 `JSON` 格式的数据，里面有 `token` 字段。
 
-## 获取个人信息
+## 凭 token 获取个人信息
 
 ### Request
 
