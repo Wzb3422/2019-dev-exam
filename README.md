@@ -49,7 +49,7 @@
 > + 示例视频与静态文件：[点击下载](http://assets.wzbspace.top/Archive.zip)
 
 ### 需求二
-描述：爬取相应以下[站点](https://blog.snowstar.org)的数据
+描述：爬取以下[站点](https://blog.snowstar.org)的数据
 
 要求：
 
@@ -59,10 +59,17 @@
 
 提醒:
 
-+ 存储推荐使用数据库
++ 存储数据推荐使用数据库
 + 站点的分页功能，请做好相应的处理
-+ 怎么合理使用Flask， RestfulAPI，HTTP请求，Python，爬虫，数据库等
++ 怎么合理使用Flask， Representational State Transfer API，HTTP请求，Python，爬虫，数据库（MySQL,SQLite,Redis,MongoDB等）等
 + 仿写网页源代码无效
+
+加分项：
+
++ 良好的代码风格
++ 使用数据库并有良好的设计
++ 性能调优
++ 模块化编程
 
 
 ## 提交方式
