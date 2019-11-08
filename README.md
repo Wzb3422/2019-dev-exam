@@ -24,7 +24,7 @@
 
 ### 需求一 - 登录页面
 
-描述：编写一个登录页面。使用云家园账号密码登录成功后，将个人信息显示出来。
+描述：编写一个**登录页面**。使用云家园账号密码登录成功后，将个人信息显示出来。
 
 要求：
 
@@ -53,11 +53,12 @@
 > + 示例视频与界面截图：[点击下载](http://assets.wzbspace.top/Archive.zip)
 
 ### 需求二
-描述：爬取以下[站点](https://blog.snowstar.org)的数据
+
+描述：爬取[该站点](https://blog.snowstar.org)的数据
 
 要求：
 
-+ 爬取所有文章的标题，时间，作者，概要并做相应的存储
++ 爬取所有文章的`标题` `时间` `作者` `概要`，并做相应的存储
 + 能够在页面上展示你所爬取的内容
 + 在页面上能够做出搜索文章的功能
 
@@ -65,7 +66,7 @@
 
 + 存储数据推荐使用数据库
 + 站点的分页功能，请做好相应的处理
-+ 怎么合理使用Flask， Representational State Transfer API，HTTP请求，Python，爬虫，数据库（MySQL,SQLite,Redis,MongoDB等）等
++ 怎么合理使用 `Flask` ， `Representational State Transfer API` ，`HTTP请求`，`Python`，爬虫，数据库（MySQL,SQLite,Redis,MongoDB等）等
 + 仿写网页源代码无效
 
 加分项：
@@ -74,7 +75,6 @@
 + 使用数据库并有良好的设计
 + 性能调优
 + 模块化编程
-
 
 ## 提交方式
 
