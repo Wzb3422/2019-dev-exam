@@ -53,7 +53,7 @@
 
 > + 示例视频与界面截图：[点击下载](http://assets.wzbspace.top/Archive.zip)
 
-### 需求二
+### 需求二 - 爬取博客并展示
 
 描述：爬取[该站点](https://blog.snowstar.org)的数据，并显示在页面上。
 
@@ -79,8 +79,10 @@
 
 ## 提交方式
 
-将需求一、二分别上传到 GitHub 的两个仓库上，
-**使用命令行的方式**，将代码上传到自己到 GitHub 上，**考核结束后**将 GitHub 仓库地址填到在线表格中。
+将需求一、二分别上传到 GitHub 的**两**个仓库上，
+**使用命令行的方式**，将代码上传到自己到 GitHub 上，完成后将 GitHub 仓库地址填到**在线收集表**中。
+
+> 在线收集表：[点击进入](https://docs.qq.com/form/fill/DYVd1WndRYU1kbXhG?_w_tencentdocx_form=1)
 
 ## 写在最后
 
